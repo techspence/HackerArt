@@ -13,3 +13,5 @@
                                     / (-'
                                     `-'
                            Setting phasers to stun, please wait..
+
+https://github.com/techspence/ScriptSentry
