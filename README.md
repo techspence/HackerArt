@@ -3,7 +3,7 @@
 
 A collection of art inspired by the world of cybersecurity and hacking culture.
 
-# How to Contribute
+# How to Contribute ASCII
 1. Create a .txt file containing only the ASCII art of the tool
 - Example:
   
