@@ -9,4 +9,4 @@ A collection of art inspired by the world of cybersecurity and hacking culture.
   
   ![image](https://github.com/techspence/HackerArt/assets/7014376/ca52c8a4-56b7-48ff-8ed3-b404a8637aa2)
 
-2. Create a pull request with your ASCII art. Please ensure the tool name is in the PR
+2. Create a pull request with your ASCII art. Please ensure the tool name is in the PR and that you PR to the ASCII folder
