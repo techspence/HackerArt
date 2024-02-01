@@ -57,4 +57,5 @@ jobs:
 
     - name: Deploy to GitHub Pages
       run: |
+        cd HackerArt-io
         mkdocs gh-deploy --force
