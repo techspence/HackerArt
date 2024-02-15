@@ -1,0 +1,18 @@
+                ______
+               /      \
+              (  W00f! )
+               \  ____/
+               ,,    __            404 Hack Not Found
+           |`-.__   / /                      __     __
+           /"  _/  /_/                       \ \   / /
+          *===*    /                          \ \_/ /  405 Not Allowed
+         /     )__//                           \   /
+    /|  /     /---`                        403 Forbidden
+    \\/`   \ |                                 / _ \
+    `\    /_\\_              502 Bad Gateway  / / \ \  500 Internal Error
+      `_____``-`                             /_/   \_\
+
+                        ~ WAFW00F : v2.2.0 ~
+
+
+From: https://github.com/EnableSecurity/wafw00f
