@@ -1,0 +1,5 @@
+# ASCII Art Gallery
+
+{% for art in arts %}
+- [{{ art.title }}](ascii-art/{{ art.filename }})
+{% endfor %}

@@ -1,0 +1,23 @@
+site_name: HackerArt 
+site_url: https://techspence.github.io/HackerArt/
+site_description: A gallery of ASCII art from the HackerArt project.
+site_author: techspence
+
+# Repository
+repo_name: techspence/HackerArt
+repo_url: https://github.com/techspence/HackerArt
+edit_uri: ""
+
+# Theme configuration
+theme:
+  name: 'material'
+  logo: 'https://github.com/techspence/HackerArt/assets/7014376/e2db4810-396d-4487-8140-bc32a6afeb2f'
+
+# Plugins
+plugins:
+  - search
+  #- mkdocs-gh-deploy
+# Pages
+nav:
+  - ASCII Art Gallery:
+      - Home: index.md

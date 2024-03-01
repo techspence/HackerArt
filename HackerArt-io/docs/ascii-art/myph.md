@@ -1,0 +1,27 @@
+
+```
+
+              ...                                        -==[ M Y P H ]==-
+             ;::::;
+           ;::::; :;                                    In loving memory of
+         ;:::::'   :;                               Wassyl Iaroslavovytch Slipak
+        ;:::::;     ;.
+       ,:::::'       ;           OOO                       (1974 - 2016)
+       ::::::;       ;          OOOOO
+       ;:::::;       ;         OOOOOOOO
+      ,;::::::;     ;'         / OOOOOOO
+    ;::::::::: . ,,,;.        /  / DOOOOOO
+  .';:::::::::::::::::;,     /  /     DOOOO
+ ,::::::;::::::;;;;::::;,   /  /        DOOO        AV / EDR evasion framework
+; :::::: '::::::;;;::::: ,#/  /          DOOO           to pop shells and
+: ::::::: ;::::::;;::: ;::#  /            DOOO        make the blue team cry
+:: ::::::: ;:::::::: ;::::# /              DOO
+ : ::::::: ;:::::: ;::::::#/               DOO
+ ::: ::::::: ;; ;:::::::::##                OO       written with <3 by djnn
+ :::: ::::::: ;::::::::;:::#                OO                ------
+ ::::: ::::::::::::;' :;::#                O             https://djnn.sh
+   ::::: ::::::::;  /  /  :#
+   :::::: :::::;   /  /    #
+
+
+```
