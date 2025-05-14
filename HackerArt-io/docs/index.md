@@ -1,82 +1,84 @@
 # ASCII Art Gallery
 
 
-- [winPEASps1](ascii-art/winPEASps1.md)
-
-- [myph](ascii-art/myph.md)
-
-- [SharpLAPS](ascii-art/SharpLAPS.md)
-
-- [Rubeus](ascii-art/Rubeus.md)
-
-- [dBmonster](ascii-art/dBmonster.md)
-
-- [Seatbelt](ascii-art/Seatbelt.md)
-
-- [ADCSPwn](ascii-art/ADCSPwn.md)
-
-- [TokenStomp](ascii-art/TokenStomp.md)
-
-- [ThunderFox](ascii-art/ThunderFox.md)
-
-- [AttackRange](ascii-art/AttackRange.md)
-
-- [ADSearch](ascii-art/ADSearch.md)
-
-- [SharpCookieMonster](ascii-art/SharpCookieMonster.md)
-
-- [SharpEDRChecker](ascii-art/SharpEDRChecker.md)
-
-- [wafw00f](ascii-art/wafw00f.md)
-
-- [linPEAS](ascii-art/linPEAS.md)
-
 - [SharpDoor](ascii-art/SharpDoor.md)
-
-- [socialengineertoolkit](ascii-art/socialengineertoolkit.md)
 
 - [Invoke-GhostTask](ascii-art/Invoke-GhostTask.md)
 
-- [ShellSweep](ascii-art/ShellSweep.md)
+- [ADCSPwn](ascii-art/ADCSPwn.md)
 
-- [SharpHandler](ascii-art/SharpHandler.md)
+- [SharpCookieMonster](ascii-art/SharpCookieMonster.md)
 
-- [NoCertLeftBehind](ascii-art/NoCertLeftBehind.md)
-
-- [ADCollector](ascii-art/ADCollector.md)
-
-- [metasploit](ascii-art/metasploit.md)
-
-- [slayer](ascii-art/slayer.md)
-
-- [ShadowSteal](ascii-art/ShadowSteal.md)
-
-- [Certify](ascii-art/Certify.md)
-
-- [SplashPWN](ascii-art/SplashPWN.md)
-
-- [SharpDPAPI](ascii-art/SharpDPAPI.md)
-
-- [ScriptSentry](ascii-art/ScriptSentry.md)
-
-- [Watson](ascii-art/Watson.md)
-
-- [SharpChrome](ascii-art/SharpChrome.md)
+- [dBmonster](ascii-art/dBmonster.md)
 
 - [SharpNoPSExec](ascii-art/SharpNoPSExec.md)
 
-- [Grouper2](ascii-art/Grouper2.md)
+- [AttackRange](ascii-art/AttackRange.md)
 
-- [octopus](ascii-art/octopus.md)
+- [socialengineertoolkit](ascii-art/socialengineertoolkit.md)
 
-- [SafetyKatz](ascii-art/SafetyKatz.md)
+- [SharpLAPS](ascii-art/SharpLAPS.md)
+
+- [ADSearch](ascii-art/ADSearch.md)
+
+- [SharpEDRChecker](ascii-art/SharpEDRChecker.md)
 
 - [BetterSafetyKatz](ascii-art/BetterSafetyKatz.md)
 
+- [Rubeus](ascii-art/Rubeus.md)
+
+- [ThunderFox](ascii-art/ThunderFox.md)
+
+- [Seatbelt](ascii-art/Seatbelt.md)
+
+- [SharpChrome](ascii-art/SharpChrome.md)
+
+- [linPEAS](ascii-art/linPEAS.md)
+
+- [ShellSweep](ascii-art/ShellSweep.md)
+
+- [NoCertLeftBehind](ascii-art/NoCertLeftBehind.md)
+
 - [Locksmith](ascii-art/Locksmith.md)
 
-- [SharpSQLPwn](ascii-art/SharpSQLPwn.md)
+- [ScriptSentry](ascii-art/ScriptSentry.md)
+
+- [octopus](ascii-art/octopus.md)
+
+- [myph](ascii-art/myph.md)
+
+- [TokenStomp](ascii-art/TokenStomp.md)
+
+- [Watson](ascii-art/Watson.md)
 
 - [StandIn](ascii-art/StandIn.md)
 
+- [ShadowSteal](ascii-art/ShadowSteal.md)
+
+- [Grouper2](ascii-art/Grouper2.md)
+
 - [ADFSDump](ascii-art/ADFSDump.md)
+
+- [SafetyKatz](ascii-art/SafetyKatz.md)
+
+- [SharpSQLPwn](ascii-art/SharpSQLPwn.md)
+
+- [SplashPWN](ascii-art/SplashPWN.md)
+
+- [winPEASps1](ascii-art/winPEASps1.md)
+
+- [slayer](ascii-art/slayer.md)
+
+- [wafw00f](ascii-art/wafw00f.md)
+
+- [metasploit](ascii-art/metasploit.md)
+
+- [Certify](ascii-art/Certify.md)
+
+- [ADCollector](ascii-art/ADCollector.md)
+
+- [SharpDPAPI](ascii-art/SharpDPAPI.md)
+
+- [SharpHandler](ascii-art/SharpHandler.md)
+
+- [PhantaByte](ascii-art/PhantaByte.md)
